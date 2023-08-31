@@ -34,4 +34,4 @@ const FormField = ({ labelName, type, name, placeholder, value, handleChange, is
   )
 }
 
-export default FormField
+export default FormField;
